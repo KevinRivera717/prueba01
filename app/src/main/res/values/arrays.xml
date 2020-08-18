@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="moneda">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Colon</item>
+    </string-array>
+
+    <string-array name="Longitudes">
+        <item>Metro</item>
+        <item>Kilometro</item>
+        <item>Centimetro</item>
+    </string-array>
+</resources>
